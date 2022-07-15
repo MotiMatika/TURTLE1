@@ -213,40 +213,12 @@ turtle.mainloop()
 # moti.rt(90)
 # moti.fd(length)
 # moti.rt(90)
-# moti.fd(length)
-# moti.rt(90)
-# moti.fd(length)
-# moti.end_fill()
-
-# moti.color("blue")
-# moti.begin_fill()
-# moti.fd(length)
-# moti.lt(90)
-# moti.fd(length)
-# moti.lt(90)
-# moti.fd(length)
-# moti.end_fill()
-
-# moti.color("purple")
-# moti.begin_fill()
-# moti.rt(90)
-# moti.fd(length)
-# moti.lt(90)
-# moti.fd(length)
-# moti.lt(90)
-# moti.fd(length)
-# moti.end_fill()
+# moti
 
 
-# moti.color("pink")
-# moti.begin_fill()
-# moti.rt(90)
-# moti.fd(length)
-# moti.lt(90)
-# moti.fd(length)
-# moti.lt(90)
-# moti.fd(length)
-# moti.end_fill()
+
+
+
 
 
 # turtle.mainloop()           # prevent the window from closing  

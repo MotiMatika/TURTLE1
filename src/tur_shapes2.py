@@ -70,21 +70,21 @@ num_5(100)
 
 
 
-def main():
-    import turtle               
-    tw = turtle.Screen()        
-    moti = turtle.Turtle()                    
-    moti.pensize(4) 
-    moti.speed(1)
-    moti.shape("classic")
-    size = 100
+# def main():
+#     import turtle               
+#     tw = turtle.Screen()        
+#     moti = turtle.Turtle()                    
+#     moti.pensize(4) 
+#     moti.speed(1)
+#     moti.shape("classic")
+#     size = 100
 
     
-    num_1(size)
-    num_2(size)
-    num_3(size)
-    num_4(size)
-    num_5(size)
+#     num_1(size)
+#     num_2(size)
+#     num_3(size)
+#     num_4(size)
+#     num_5(size)
     
 
 turtle.mainloop()            
