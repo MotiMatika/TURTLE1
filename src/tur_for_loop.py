@@ -2,7 +2,6 @@
 import turtle               
 tw = turtle.Screen()        
 moti = turtle.Turtle()       
-
 moti.pensize(4)
 moti.shape("turtle")
 moti.speed()
