@@ -29,7 +29,7 @@ moti.speed()
 
 
 #שרטוט צורות משוכללות ברצף צבועות באופן יעיל עם לולאת פור
-#משולש שוה צלעות
+# משולש שוה צלעות מלא
 moti.begin_fill()
 moti.color("green")
 for num in range(3):
