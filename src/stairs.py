@@ -40,4 +40,4 @@ moti.fd(70)
 moti.lt(45)
 moti.fd(395.98)
 
-turtle.mainloop()            
+turtle.mainloop()       
