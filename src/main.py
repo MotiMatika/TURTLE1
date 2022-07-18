@@ -56,25 +56,25 @@
 # turtle.mainloop()
 
 # #מחומש משוכלל
-import turtle               # allows us to use the turtles library
-tw = turtle.Screen()        # creates a graphics window 
-moti = turtle.Turtle()      # create a turtle named moti 
-moti.color("green")
-moti.pensize(4)
-moti.shape("turtle")
-moti.speed(1)
+# import turtle               # allows us to use the turtles library
+# tw = turtle.Screen()        # creates a graphics window 
+# moti = turtle.Turtle()      # create a turtle named moti 
+# moti.color("green")
+# moti.pensize(4)
+# moti.shape("turtle")
+# moti.speed(1)
 
-moti.fd(100)
-moti.rt(72)
-moti.fd(100)
-moti.rt(72)
-moti.fd(100)
-moti.rt(72)
-moti.fd(100)
-moti.rt(72)
-moti.fd(100)
+# moti.fd(100)
+# moti.rt(72)
+# moti.fd(100)
+# moti.rt(72)
+# moti.fd(100)
+# moti.rt(72)
+# moti.fd(100)
+# moti.rt(72)
+# moti.fd(100)
 
-turtle.mainloop()
+# turtle.mainloop()
 
 
 
@@ -99,11 +99,11 @@ turtle.mainloop()
 # moti.rt(60)
 # moti.fd(100)
 
-# turtle.mainloop()
+#turtle.mainloop()
 
 
 
-#משולש שוה צלעות עם מילוי צבע
+# # משולש שוה צלעות עם מילוי צבע
 # import turtle               # allows us to use the turtles library
 # tw = turtle.Screen()        # creates a graphics window 
 # moti = turtle.Turtle()      # create a turtle named moti 

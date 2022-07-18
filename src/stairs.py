@@ -3,7 +3,7 @@ tw = turtle.Screen()
 tw.title("Stairs")       
 moti = turtle.Turtle()       
 moti.pensize(4)
-moti.shape("turtle")
+moti.shape("classic")
 moti.speed()
 
 moti.lt(90)
