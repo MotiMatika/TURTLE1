@@ -5,6 +5,7 @@ moti = turtle.Turtle()
 moti.pensize(4)
 moti.shape("turtle")
 moti.speed()
+
 #עיגולים בשורה
 # moti.circle(50)
 # moti.rt(10)
